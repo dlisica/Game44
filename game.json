@@ -1,0 +1,23 @@
+{
+  "title": "Easy Game 1",
+  "difficulty": "easy",
+  "columns": {
+    "A": {
+      "clues": ["GRANNY", "GOLDEN", "CIDER", "MAC"],
+      "solution": "APPLE"
+    },
+    "B": {
+      "clues": ["SWOOSH", "JUST DO IT", "AIR MAX", "GODDESS OF VICTORY"],
+      "solution": "NIKE"
+    },
+    "C": {
+      "clues": ["BRICKS", "MINIFIGURES", "DANISH", "STUDS"],
+      "solution": "LEGO"
+    },
+    "D": {
+      "clues": ["THREE STRIPES", "SAMBA", "STAN SMITH", "GAZELLE"],
+      "solution": "ADIDAS"
+    }
+  },
+  "final_solution": "FAMOUS CONSUMER BRANDS"
+}
